@@ -1,7 +1,7 @@
 # 🌐 Ameneh Mousavi Portfolio
 
 ## 🔗 Live Website
-👉 [https://amenehdesign.com/]([https://amenehdesign.com/](https://amenehdesign.com/))
+👉 [https://amenehdesign.com/](https://amenehdesign.com/)
 
 ## 📌 About This Project
 This is my personal portfolio website built with WordPress.  
@@ -24,7 +24,7 @@ Perfect for potential employers or clients to explore my work.
 ## 📷 Preview
 
 ### Home Page
-![Home Page]([home-screenshot.png](https://amenehdesign.com/wp-content/uploads/2026/03/Persiasteel-company-scaled.png](https://amenehdesign.com/contact/))
+![Home Page](home-screenshot.png](https://amenehdesign.com/)
 
 ### Projects Page
 ![Projects Page](projects-screenshot.png)
