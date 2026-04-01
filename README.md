@@ -27,10 +27,10 @@ Perfect for potential employers or clients to explore my work.
 ![Home Page](home-screenshot.png](https://amenehdesign.com/)
 
 ### Projects Page
-![Projects Page](projects-screenshot.png)
+![Projects Page](projects-screenshot.png](https://amenehdesign.com/my-projects/)
 
 ### Contact Page
-![Contact Page](contact-screenshot.png)
+![Contact Page](contact-screenshot.png](https://amenehdesign.com/contact-me/)
 
 > 💡 Tip: Replace the filenames (`home-screenshot.png`, etc.) with the actual screenshot file names you upload in GitHub.
 
