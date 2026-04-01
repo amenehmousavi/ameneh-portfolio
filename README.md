@@ -24,7 +24,7 @@ Perfect for potential employers or clients to explore my work.
 ## 📷 Preview
 
 ### Home Page
-![Home Page](home-screenshot.png](https://amenehdesign.com/wp-content/uploads/2026/03/Persiasteel-company-scaled.png)
+![Home Page]([home-screenshot.png](https://amenehdesign.com/wp-content/uploads/2026/03/Persiasteel-company-scaled.png](https://amenehdesign.com/contact/))
 
 ### Projects Page
 ![Projects Page](projects-screenshot.png)
