@@ -24,13 +24,13 @@ Perfect for potential employers or clients to explore my work.
 ## 📷 Preview
 
 ### Home Page
-![Home Page](home-screenshot.png](https://amenehdesign.com/)
+![Home Page](home](https://amenehdesign.com/)
 
 ### Projects Page
-![Projects Page](projects-screenshot.png](https://amenehdesign.com/my-projects/)
+![Projects Page](projects](https://amenehdesign.com/my-projects/)
 
 ### Contact Page
-![Contact Page](contact-screenshot.png](https://amenehdesign.com/contact-me/)
+![Contact Page](contact](https://amenehdesign.com/contact-me/)
 
 > 💡 Tip: Replace the filenames (`home-screenshot.png`, etc.) with the actual screenshot file names you upload in GitHub.
 
