@@ -32,7 +32,7 @@ Perfect for potential employers or clients to explore my work.
 ### Contact Page
 ![Contact Page](](https://amenehdesign.com/contact-me/)
 
-> 💡 Tip: Replace the filenames (`home-screenshot.png`, etc.) with the actual screenshot file names you upload in GitHub.
+> 💡 Tip: 
 
 ## 💡 What I Learned
 - Building responsive layouts and modern UI designs
