@@ -17,9 +17,11 @@ Perfect for potential employers or clients to explore my work.
 
 ## 🛠️ Technologies Used
 - WordPress
-- HTML, CSS, JavaScript
-- Elementor (or your WordPress builder)
+- Elementor (WordPress page builder)
 - SEO Plugins
+- SEO Plugins (for optimization)
+- Google Analytics (for tracking and reporting)
+- HTML, CSS, JavaScript
 
 ## 📷 Preview
 
