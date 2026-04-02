@@ -25,7 +25,7 @@ Perfect for potential employers or clients to explore my work.
 ## 📷 Screenshots
 
 ### Home Page
-![Home Page](contact-screenshot.png)
+![Home Page](home-screenshot.png)
 
 ### Projects Page
 ![Projects Page](projects-screenshot.png)
