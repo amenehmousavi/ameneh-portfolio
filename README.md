@@ -1,54 +1,64 @@
 # 🌐 Ameneh Mousavi Portfolio
 
 ## 🔗 Live Website
-👉 [https://amenehdesign.com/](https://amenehdesign.com/)
+[Visit Website](https://amenehdesign.com/)
 
 ## 📌 About This Project
 This is my personal portfolio website built with WordPress.  
-It showcases my web design projects, UI/UX skills, and professional experience.  
+It showcases my web design projects, UI/UX skills, and digital marketing campaigns.  
 Perfect for potential employers or clients to explore my work.
 
 ## ✨ Features
-- Responsive Design for desktop and mobile
-- Modern UI/UX design
-- SEO optimized pages
-- Fast loading speed
-- Easy navigation
+- Responsive Design (Desktop & Mobile)
+- Modern UI/UX
+- SEO Optimized
+- Fast Loading
+- Easy Navigation
 
-## 🛠️ Technologies Used
+## 🛠️ Technologies & Tools
 - WordPress
 - Elementor (WordPress page builder)
-- SEO Plugins
 - SEO Plugins (for optimization)
-- Google Analytics (for tracking and reporting)
+- Google Analytics (tracking & reporting)
 - HTML, CSS, JavaScript
 
-## 📷 Preview
+## 📷 Screenshots
 
 ### Home Page
-![Home Page](](https://amenehdesign.com/)
+![Home Page](home-screenshot.png)
 
 ### Projects Page
-![Projects Page](](https://amenehdesign.com/my-projects/)
+![Projects Page](projects-screenshot.png)
 
 ### Contact Page
-![Contact Page](](https://amenehdesign.com/contact-me/)
+![Contact Page](contact-screenshot.png)
 
-> 💡 Tip: 
+> 💡 Tip: Replace the filenames (`home-screenshot.png`, etc.) with the actual screenshot file names you upload in GitHub.
+
+## 💼 Digital Marketing & Campaigns
+- PDF Reports and Analytics (see `reports/` folder)
+- Campaign screenshots and results
+- SEO & Content Optimization
 
 ## 💡 What I Learned
-- Building responsive layouts and modern UI designs
-- Improving user experience (UX) across devices
+- Building responsive layouts
+- Improving UI/UX design
 - Working effectively with WordPress themes and plugins
-- SEO optimization for better visibility
+- SEO optimization and tracking marketing campaigns
 
 ## 👩‍💻 Author
 **Ameneh Mousavi**  
-Web Designer & Frontend Developer | WordPress | UI/UX | Responsive Websites  
+Web Designer & Frontend Developer | WordPress | UI/UX | Digital Marketing  
 
 ---
 
 ## 📌 How to Explore
-- Click the [Live Website](https://amenehdesign.com/) link to see the real site
-- Review screenshots above to quickly see design and layout
-- Check my pinned repositories for individual project details
+1. Click the [Live Website](https://amenehdesign.com/) to see the site in action  
+2. Check the screenshots above to quickly see layout and design  
+3. Browse `reports/` folder for PDFs on digital marketing campaigns  
+4. Explore pinned repositories for detailed projects
+
+---
+
+## 📌 Topics (for GitHub search)
+wordpress portfolio web-design frontend responsive ui-ux digital-marketing personal-website
