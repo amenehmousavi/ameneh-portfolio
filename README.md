@@ -25,13 +25,13 @@ Perfect for potential employers or clients to explore my work.
 ## 📷 Screenshots
 
 ### Home Page
-![Home Page](home-screenshot.png)
+![Home Page](images/home-screenshot.png)
 
 ### Projects Page
-![Projects Page](Projects-screenshot.png)
+![Projects Page](images/Projects-screenshot.png)
 
 ### Contact Page
-![Contact Page](contact-screenshot.png)
+![Contact Page](images/contact-screenshot.png)
 
 > 💡 Tip: Replace the filenames (`home-screenshot.png`, etc.) with the actual screenshot file names you upload in GitHub.
 
