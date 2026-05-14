@@ -41,7 +41,7 @@ Designed and built the website from scratch, including SEO optimization to impro
 
 ### 🔵 Persia Steel Industrial Website Redesign
 
-[![Persia Steel](IMAGE_URL_3)](PROJECT_URL_3)
+[![Persia Steel](https://amenehdesign.com/images/kitchen-equipment.png)](https://amenehdesign.com/persia-steel-industrial-equipment-website/)
 
 Redesigned and rebuilt as a professional industrial website to demonstrate WordPress, Elementor, responsive design, and business-oriented web strategy.
 
