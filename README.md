@@ -55,8 +55,8 @@ My focus is on user experience, performance, and creating digital products that 
 
 ## 📫 Contact
 
-- Email: your-email@gmail.com  
-- LinkedIn: https://linkedin.com/in/your-profile  
+- Email: Amenehmousavie@gmail.com
+- LinkedIn: https://www.linkedin.com/in/ameneh-mousavi-kelarsi/
 - GitHub: https://github.com/amenehmousavi
 
 ---
