@@ -25,8 +25,7 @@ Focused on performance, clean UI, and business-oriented design.
 
 ### 🟢 BMW Dealership Website
 
-[![BMW Project](https://user-images.githubusercontent.com/XXXX/bmw.png)](https://amenehdesign.com/luxury-automotive-web-design/)
-
+[![Luxury Automotive Website](https://raw.githubusercontent.com/amenehmousavi/ameneh-portfolio/main/images/luxury-automotive-web-design_.png)](https://amenehdesign.com/luxury-automotive-web-design/)
 Designed and managed a BMW dealership website for Tyskhodro, focused on luxury vehicle presentation, customer engagement, and responsive web design.
 
 ---
