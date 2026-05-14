@@ -1,64 +1,65 @@
-# 🌐 Ameneh Mousavi Portfolio
+# 👋 Hi, I'm Ameneh Mousavi
 
-## 🔗 Live Website
-[Visit Website](https://amenehdesign.com/)
+WordPress Web Designer | UI/UX Designer | Front-End Enthusiast
 
-## 📌 About This Project
-This is my personal portfolio website built with WordPress.  
-It showcases my web design projects, UI/UX skills, and digital marketing campaigns.  
-Perfect for potential employers or clients to explore my work.
-
-## ✨ Features
-- Responsive Design (Desktop & Mobile)
-- Modern UI/UX
-- SEO Optimized
-- Fast Loading
-- Easy Navigation
-
-## 🛠️ Technologies & Tools
-- WordPress
-- Elementor (WordPress page builder)
-- SEO Plugins (for optimization)
-- Google Analytics (tracking & reporting)
-- HTML, CSS, JavaScript
-
-## 📷 Screenshots
-
-### Home Page
-![Home Page](images/home-screenshot.png)
-
-### Projects Page
-![Projects Page](images/Projects-screenshot.png)
-
-### Contact Page
-![Contact Page](images/contact-screenshot.png)
-
-> 💡 Tip: Replace the filenames (`home-screenshot.png`, etc.) with the actual screenshot file names you upload in GitHub.
-
-## 💼 Digital Marketing & Campaigns
-- PDF Reports and Analytics (see `reports/` folder)
-- Campaign screenshots and results
-- SEO & Content Optimization
-
-## 💡 What I Learned
-- Building responsive layouts
-- Improving UI/UX design
-- Working effectively with WordPress themes and plugins
-- SEO optimization and tracking marketing campaigns
-
-## 👩‍💻 Author
-**Ameneh Mousavi**  
-Web Designer & Frontend Developer | WordPress | UI/UX | Digital Marketing  
+I design and develop modern, responsive, and user-friendly websites using WordPress and Elementor.  
+Focused on performance, clean UI, and business-oriented design.
 
 ---
 
-## 📌 How to Explore
-1. Click the [Live Website](https://amenehdesign.com/) to see the site in action  
-2. Check the screenshots above to quickly see layout and design  
-3. Browse `reports/` folder for PDFs on digital marketing campaigns  
-4. Explore pinned repositories for detailed projects
+## 🛠️ Skills
+
+- WordPress Development
+- Elementor Pro
+- UI/UX Design
+- Responsive Web Design
+- SEO Optimization
+- HTML / CSS
+- Git & GitHub
 
 ---
 
-## 📌 Topics (for GitHub search)
-wordpress portfolio web-design frontend responsive ui-ux digital-marketing personal-website
+## 🚀 Portfolio Projects
+
+---
+
+### 🟢 BMW Dealership Website
+
+[![BMW Project](IMAGE_URL_1)](PROJECT_URL_1)
+
+Designed and managed a BMW dealership website for Tyskhodro, focused on luxury vehicle presentation, customer engagement, and responsive web design.
+
+---
+
+### 🟣 Peyman Workwear Website
+
+[![Peyman Workwear](IMAGE_URL_2)](PROJECT_URL_2)
+
+Designed and built the website from scratch, including SEO optimization to improve search visibility and increase traffic.
+
+---
+
+### 🔵 Persia Steel Industrial Website Redesign
+
+[![Persia Steel](IMAGE_URL_3)](PROJECT_URL_3)
+
+Redesigned and rebuilt as a professional industrial website to demonstrate WordPress, Elementor, responsive design, and business-oriented web strategy.
+
+---
+
+## 📈 About Me
+
+I enjoy turning ideas into clean, functional, and modern websites.  
+My focus is on user experience, performance, and creating digital products that help businesses grow.
+
+---
+
+## 📫 Contact
+
+- Email: your-email@gmail.com  
+- LinkedIn: https://linkedin.com/in/your-profile  
+- GitHub: https://github.com/amenehmousavi
+
+---
+
+⭐ Thank you for visiting my portfolio!
