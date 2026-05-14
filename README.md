@@ -30,7 +30,7 @@ Designed and managed a BMW dealership website for Tyskhodro, focused on luxury v
 
 ---
 
-### 🟣 Peyman Workwear Website
+### 🟣 Peyman Workwear Website ### 🟡 Coming Soon – New Project
 
 [![Peyman Workwear](IMAGE_URL_2)](PROJECT_URL_2)
 
