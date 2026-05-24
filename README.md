@@ -21,12 +21,6 @@ Focused on performance, clean UI, and business-oriented design.
 
 ## 🚀 Portfolio Projects
 
----
-
-### 🟢 BMW Dealership Website
-
-[![Luxury Automotive Website](https://raw.githubusercontent.com/amenehmousavi/ameneh-portfolio/main/images/luxury-automotive-web-design_.png)](https://amenehdesign.com/luxury-automotive-web-design/)
-Designed and managed a BMW dealership website for Tyskhodro, focused on luxury vehicle presentation, customer engagement, and responsive web design.
 
 ---
 
@@ -35,6 +29,14 @@ Designed and managed a BMW dealership website for Tyskhodro, focused on luxury v
 [![Peyman Workwear](images/amenehdesign.com_industrial-workwear-website_.png)]([PROJECT_URL_2](https://amenehdesign.com/industrial-workwear-website/))
 
 Designed and built the website from scratch, including SEO optimization to improve search visibility and increase traffic.
+
+---
+
+### 🟢 BMW Dealership Website
+
+[![Luxury Automotive Website](https://raw.githubusercontent.com/amenehmousavi/ameneh-portfolio/main/images/luxury-automotive-web-design_.png)](https://amenehdesign.com/luxury-automotive-web-design/)
+Designed and managed a BMW dealership website for Tyskhodro, focused on luxury vehicle presentation, customer engagement, and responsive web design.
+
 
 ---
 
