@@ -27,7 +27,7 @@ Focused on performance, clean UI, and business-oriented design.
 
 ### 🟣 Peyman Workwear Website 
 
-[![Peyman Workwear](images/amenehdesign.com_industrial-workwear-website_.png)]([PROJECT_URL_2](https://amenehdesign.com/industrial-workwear-website/))
+[![Peyman Workwear](images/amenehdesign.com_industrial-workwear-website_.png)]([PROJECT_URL_2]([https://amenehdesign.com/industrial-workwear-website/](https://northwebdesign.ca/industrial-workwear-website/))
 
 Designed and built the website from scratch, including SEO optimization to improve search visibility and increase traffic.
 
@@ -37,7 +37,8 @@ Designed and built the website from scratch, including SEO optimization to impro
 
 ### 🟢 BMW Dealership Website
 
-[![Luxury Automotive Website](https://raw.githubusercontent.com/amenehmousavi/ameneh-portfolio/main/images/luxury-automotive-web-design_.png)](https://amenehdesign.com/luxury-automotive-web-design/)
+[![Luxury Automotive Website](https://raw.githubusercontent.com/amenehmousavi/ameneh-portfolio/main/images/luxury-automotive-web-design_.png)]([https://amenehdesign.com/luxury-automotive-web-design/](https://northwebdesign.ca/luxury-automotive-website-for-dealership-brand/
+))
 Designed and managed a BMW dealership website for Tyskhodro, focused on luxury vehicle presentation, customer engagement, and responsive web design.
 
 ---
@@ -46,7 +47,8 @@ Designed and managed a BMW dealership website for Tyskhodro, focused on luxury v
 
 ### 🔵 Persia Steel Industrial Website Redesign
 
-[![Kitchen Equipment Project](https://raw.githubusercontent.com/amenehmousavi/ameneh-portfolio/main/images/Kitchen%20Equipment%20Portfolio%20Website.png)](https://amenehdesign.com/persia-steel-industrial-equipment-website/)
+[![Kitchen Equipment Project](https://raw.githubusercontent.com/amenehmousavi/ameneh-portfolio/main/images/Kitchen%20Equipment%20Portfolio%20Website.png)]([https://amenehdesign.com/persia-steel-industrial-equipment-website/](https://northwebdesign.ca/persia-steel-industrial-equipment-website/
+))
 
 Redesigned and rebuilt as a professional industrial website to demonstrate WordPress, Elementor, responsive design, and business-oriented web strategy.
 
