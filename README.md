@@ -27,7 +27,7 @@ Focused on performance, clean UI, and business-oriented design.
 
 ### 🟣 Peyman Workwear Website 
 
-[![Peyman Workwear](images/amenehdesign.com_industrial-workwear-website_.png)]([PROJECT_URL_2]([https://amenehdesign.com/industrial-workwear-website/](https://northwebdesign.ca/industrial-workwear-website/))
+[![Peyman Workwear](images/amenehdesign.com_industrial-workwear-website_.png)]([PROJECT_URL_2]((https://northwebdesign.ca/industrial-workwear-website/))
 
 Designed and built the website from scratch, including SEO optimization to improve search visibility and increase traffic.
 
