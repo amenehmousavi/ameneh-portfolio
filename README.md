@@ -7,6 +7,7 @@ Focused on performance, clean UI, and business-oriented design.
 
 ---
 
+
 ## 🛠️ Skills
 
 - WordPress Development
@@ -30,6 +31,8 @@ Focused on performance, clean UI, and business-oriented design.
 
 Designed and built the website from scratch, including SEO optimization to improve search visibility and increase traffic.
 
+
+
 ---
 
 ### 🟢 BMW Dealership Website
@@ -37,8 +40,9 @@ Designed and built the website from scratch, including SEO optimization to impro
 [![Luxury Automotive Website](https://raw.githubusercontent.com/amenehmousavi/ameneh-portfolio/main/images/luxury-automotive-web-design_.png)](https://amenehdesign.com/luxury-automotive-web-design/)
 Designed and managed a BMW dealership website for Tyskhodro, focused on luxury vehicle presentation, customer engagement, and responsive web design.
 
-
 ---
+
+
 
 ### 🔵 Persia Steel Industrial Website Redesign
 
@@ -47,6 +51,8 @@ Designed and managed a BMW dealership website for Tyskhodro, focused on luxury v
 Redesigned and rebuilt as a professional industrial website to demonstrate WordPress, Elementor, responsive design, and business-oriented web strategy.
 
 ---
+
+
 
 ## 📈 About Me
 
