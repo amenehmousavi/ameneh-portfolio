@@ -30,9 +30,9 @@ Designed and managed a BMW dealership website for Tyskhodro, focused on luxury v
 
 ---
 
-### 🟣 Peyman Workwear Website ### 🟡 Coming Soon – New Project
+### 🟣 Peyman Workwear Website 
 
-[![Peyman Workwear](IMAGE_URL_2)](PROJECT_URL_2)
+[![Peyman Workwear](images/amenehdesign.com_industrial-workwear-website_.png)]([PROJECT_URL_2](https://amenehdesign.com/industrial-workwear-website/))
 
 Designed and built the website from scratch, including SEO optimization to improve search visibility and increase traffic.
 
